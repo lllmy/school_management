@@ -1,0 +1,13 @@
+本程序运行环境：python3.x
+说明：
+log文件中是记录日志
+lib文件中存储的是日志记录内容
+db文件中存储的是clas_info存储的是班级信息，school_info是学校信息，userinfo中存储的是管理员，教师，学生的登录名和密码（Manager  123456 ，Teacher  900420，Student  987654）
+core文件中存储的py文件是：login登录文件，main主函数文件，manager是管理员的信息文件，person是父类，
+student，teacher,manager是子类
+conf文件中存储的settings是文件中的路径都在里边
+bin文件中存储的是start开始执行文件
+本程序完成了校园管理系统，而且根据身份显示这个角色能做的事情。
+运行方式：在单独的几个文件格式正确的前提下，直接执行bin.start.py文件。
+
+
